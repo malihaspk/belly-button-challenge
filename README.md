@@ -46,6 +46,7 @@ whenever an Id is selected from the dropdown menue , demographic info updates ac
 Deployed website:
 
 To run the app, click on the link below for the deployed page.
+https://malihaspk.github.io/belly-button-challenge/
 
 
 
