@@ -31,7 +31,7 @@ A bubble chart is created that displays each sample.
 
  Gauge Chart  to plot the weekly washing frequency of the individual. The chart updates whenever a new sample is selected.
 
- ![Alt text](guage-1.png)
+ ![Alt text](guage.png)
 
 # Sample MetaData
 
@@ -46,6 +46,8 @@ whenever an Id is selected from the dropdown menue , demographic info updates ac
 Deployed website:
 
 To run the app, click on the link below for the deployed page.
+
+https://malihaspk.github.io/belly-button-challenge/
 
 
 
