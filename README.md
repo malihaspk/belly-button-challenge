@@ -25,13 +25,13 @@ A bubble chart is created that displays each sample.
 
  otu_labels used for the text values.
 
- ![Alt text](<bubble chart.png>)
+![Alt text](<bubble chart.png>)
 
  # Gauge Chart (Optional)
 
  Gauge Chart  to plot the weekly washing frequency of the individual. The chart updates whenever a new sample is selected.
 
- ![Alt text](guage.png)
+![Alt text](guage.png)
 
 # Sample MetaData
 
@@ -47,7 +47,7 @@ Deployed website:
 
 To run the app, click on the link below for the deployed page.
 
-https://malihaspk.github.io/belly-button-challenge/
+
 
 
 
