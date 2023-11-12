@@ -47,6 +47,8 @@ Deployed website:
 
 To run the app, click on the link below for the deployed page.
 
+https://malihaspk.github.io/belly-button-challenge/
+
 
 
 
